@@ -313,10 +313,10 @@ DİSCORD ~ @ZULZULİA
             Thread(target=self.besteizon).start()
 
 
-emir = render('Eizon', colors=['white', 'green'], align='center')
+emir = render('Zulzulia', colors=['white', 'green'], align='center')
 print("\x1b[1;36m" + "—" * 67)
 print(emir)
-print("𝐃𝐞𝐯 : @BestEizon / @EizonxTool")
+print("𝐃𝐞𝐯 : @Zulzulia / @raynflex")
 print("—" * 67)
 
 token = input('token: ')
